@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hssila
-- 👀 I’m interested in computer, games, movie.
-- 🌱 I’m currently learning english, phyton.
-- 💞️ This year I won the university and I will study 'Computer Engineering'.
- I am here to improve myself and choose a field.
+- 👀 I’m interested in software development, computer engineering.
+- 🌱 I'm currently learning Python and making projects of my own.
+- 💞️ This year I finished the English preparatory class and I will study 'Computer Engineering'.
+I'm here to show you the work I've done while improving myself.
 - 📫 How to reach me @helinsilakorkmaz@gmail.com
 
 <!---
